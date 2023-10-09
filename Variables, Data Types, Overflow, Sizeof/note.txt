@@ -1,0 +1,13 @@
+Boolean datatype:
+bool variable_name = true; output => 1
+bool variable_name = false; output => 0
+
+sizeof() function:
+used to get the size. ex: sizeof(int); output => 4
+			  sizeof(double); output => 8
+			  sizeof(unsigned int); output => 4
+to get the lowest possible integer: INT32_MIN
+to get the highest possible integer: INT32_MAX
+to get the highest possible unsigned integer: UINT32_MAX
+
+Data overflowing: when we reach the max value then it will start from the min value again

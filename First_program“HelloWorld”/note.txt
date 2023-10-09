@@ -1,0 +1,1 @@
+Remove junks of code: sytem("pause>0");
