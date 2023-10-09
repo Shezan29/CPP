@@ -6,7 +6,7 @@ int main()
     cout<<(int)'A' <<endl;
     cout<<(char)97 <<endl;
 
-    //Ciphering
+    //Ciphering 
     char c1,c2,c3,c4,c5;
     cout<<"Enter five letters: ";
     cin>> c1 >> c2 >> c3 >> c4 >> c5;
