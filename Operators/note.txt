@@ -1,0 +1,8 @@
+Arithmetic Operator: +-*/%
+Unary Operator: ++,--
+Relational Operator: >,>=,<,<=,==,!=
+Logical Operator: &&, ||, !
+Assignment Operator: =,+=,-=,/=,*=,%=
+
+Operator priority:
+Arithmetic > Relational > Logical > Assignment
