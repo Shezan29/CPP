@@ -10,7 +10,7 @@ int main()
     cout<<"Size of unsigned int is " <<sizeof(unsigned int) <<" Bytes." <<endl;
     cout<<"UInt max value = " << UINT32_MAX <<endl;
 
-    //Data overflowing: when we reach the max value then it will start from the min value again
+    //Data overflowing: when we reach the max value then it will start from the min value again 
     cout<<"Data overflow: " <<endl;
     int intMax = INT_FAST32_MAX;
     cout<<intMax <<endl;
